@@ -27,6 +27,6 @@
   "devDependencies": {
     "@types/cors": "2.8.15",
     "@types/express": "4.17.20",
-    "@sgohlke/ts-base-dependencies": "1.0.19"
+    "@sgohlke/ts-base-dependencies": "1.0.20"
   }
 }
